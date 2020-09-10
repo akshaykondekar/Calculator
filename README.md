@@ -6,3 +6,6 @@ Simple Calculator app with Addition, Substraction, Multiplication and Divide ope
 
 <h3>Addition and Substraction</h3>
 <img align="center" src="https://j.gifs.com/E8wZO0.gif" width="260">
+
+<h3>Landscape and Portrait</h3>
+<img align="center" src="https://j.gifs.com/1WLY1P.gif" width="260">
